@@ -7,4 +7,4 @@ General Theory of Scalar Chrono-Resonance: models time as an oscillatory scale f
 ---
 
 ### 📄 Documentación del Proyecto
-- [📥 Descargar / Leer el Documento Completo de la Teoría](./general_theory_scalar_chrono_...pdf) *(asegúrate de que el nombre coincida exactamente con el archivo que subiste)*
+[📥 Descargar Documento de la Teoría](./theory.pdf) *(asegúrate de que el nombre coincida exactamente con el archivo que subiste)*
